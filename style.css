@@ -15,4 +15,12 @@ head header p{
 }
 img {
     height: 21em;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+}
+footer {
+    font-size: 10px;
+    text-align: right;
+    
 }
