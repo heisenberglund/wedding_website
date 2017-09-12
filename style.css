@@ -1,15 +1,11 @@
-<<<<<<< HEAD
 html {
     background-color: #9C0D0D;
 }
 
-=======
->>>>>>> css
 header {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-<<<<<<< HEAD
     color: white;
     font-variant: small-caps;
     font-style: oblique;
@@ -27,13 +23,4 @@ footer {
     font-size: 10px;
     text-align: right;
     
-=======
-    color: #801126;
-    font-variant: small-caps;
-    font-style: oblique;
-}
-
-img {
-    height: 20em;
->>>>>>> css
 }
