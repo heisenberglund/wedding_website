@@ -1,12 +1,18 @@
+html {
+    background-color: #9C0D0D;
+}
+
 header {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    color: #801126;
+    color: white;
     font-variant: small-caps;
     font-style: oblique;
 }
-
+head header p{
+    font-style: strong;
+}
 img {
     height: 21em;
 }
